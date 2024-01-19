@@ -24,6 +24,8 @@ desenvolvimento web com ênfase em Front-end.  Amo me desafiar e aprender coisas
 
 <img align="center" alt="JavaScrit" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
 </div>
 
 #### Estou aprendendo:
